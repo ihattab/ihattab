@@ -1,4 +1,3 @@
-ihattab/README.md
 
 ### Hi there 👋
 
